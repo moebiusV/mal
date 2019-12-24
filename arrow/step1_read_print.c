@@ -1,4 +1,4 @@
-/* (c) 2019, moebius@a-lang.org -- make-a-lisp step0 */
+/* (c) 2019, moebius@a-lang.org -- make-a-lisp step1 */
 
 #include "arrow.h"
 
